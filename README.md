@@ -7,16 +7,21 @@
 - 🖌️ Click to fill different shapes or objects.
 - 💡 User-friendly and intuitive interface.
 - ⚡ Smooth and responsive gameplay.
+
 🛠️ Technologies Used
 - **Frontend:** HTML, CSS, JavaScript 
 - **Backend:** Node.js, Firebase
 - **Tools:** Git, VS Code
+  
  📥 Installation and Setup
+ 
 1. Clone the repository:
    git clone https://github.com/Rayavarpu-kavya/Coloring-game.git
-2. Navigate to the project directory:
+   
+3. Navigate to the project directory:
    cd Coloring-game
-3. Open `index.html` (for simple HTML projects)  
+   
+5. Open `index.html` (for simple HTML projects)  
    OR  
    Install dependencies (for React/Node projects):
    npm install
