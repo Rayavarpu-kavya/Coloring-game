@@ -1,4 +1,5 @@
 🎨 Coloring Game
+
 📌 About the Project
 **Coloring Game** is an interactive game that allows users to select and apply colors to different elements on the screen. It is designed for both fun and creativity, providing an engaging experience for users of all ages.
 🚀 Features
@@ -20,6 +21,8 @@
    Install dependencies (for React/Node projects):
    npm install
    npm start
+
+   
  🏗️ Future Improvements
 - 🖍️ Add more colors and brush styles.
 - 🎭 Introduce themed coloring templates.
